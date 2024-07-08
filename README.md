@@ -16,5 +16,5 @@ deno run <file name>
 
 ## Technologies used:
 
-* TypeScript
-* Deno
+* JavaScript
+* Node.js
